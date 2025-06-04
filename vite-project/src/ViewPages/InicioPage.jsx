@@ -3,7 +3,7 @@ import { Card, Container, Row, Col } from "react-bootstrap";
 const InicioPage = () => {
   return (
     <Container className="py-5">
-      <h1 className="text-center mb-4">Bem-vindo ao SilkControl</h1>
+      <h1 className="text-center mb-4">Bem-vindo ao BANKEEP</h1>
       <p className="text-center mb-5">
         Este sistema foi desenvolvido para ajudar você a controlar suas finanças pessoais de forma prática e eficiente.
         Aqui você pode lançar receitas e despesas, visualizar relatórios no dashboard e gerenciar suas dívidas com facilidade.
