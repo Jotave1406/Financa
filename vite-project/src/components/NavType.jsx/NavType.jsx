@@ -19,7 +19,7 @@ const NavType = () => {
       <Container>
         <Navbar.Brand style={{ flexGrow: 100 }} href="#home">
           <div className="text-white">
-            <div className="fw-bold">SilkControl</div>
+            <div className="fw-bold">BANKEEP</div>
             {user && (
               <small style={{ fontSize: 11 }}>
                 <div>Usuário: {user.nome}</div>
